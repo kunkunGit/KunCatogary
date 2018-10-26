@@ -1,0 +1,16 @@
+PODS:
+  - CatogaryDemo (0.1.0)
+
+DEPENDENCIES:
+  - CatogaryDemo (from `../`)
+
+EXTERNAL SOURCES:
+  CatogaryDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CatogaryDemo: 4bc4837f713b590c03165048ed84142acaeb16e0
+
+PODFILE CHECKSUM: 0498580b92ede477bcc60f03afabc1d23f5ccb76
+
+COCOAPODS: 1.5.3
